@@ -9,10 +9,10 @@ Requirements
 - Numpy
 - matplotlib
 
-
 Optional
 --------------------------
 - visdom (https://github.com/facebookresearch/visdom)
+
 
 설치방법 [PyTorch & Jupyter Notebook](https://github.com/GunhoChoi/PyTorch-FastCampus/blob/master/01_DL%26Pytorch/PyTorch_AWS%EC%84%A4%EC%B9%98.pdf)
 -------------------------------------
@@ -22,6 +22,7 @@ Optional
 - Anaconda(https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/)
 - PyTorch
 - Jupyter Notebook
+
 
 강의자료
 --------------------------
@@ -45,41 +46,41 @@ Optional
 
 9) [인공신경망 모델 - 2D데이터](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week1_PyTorch%20%26%20Regression%20%26%20NN/1_1_NN_code/2d_data/neural_2d.ipynb)
 
-## 2강 [Convolutional Neural Network - Basic](https://github.com/GunhoChoi/PyTorch-FastCampus/blob/master/03_CNN_Basics/CNN_basic.pdf)
+## 2강 [Convolutional Neural Network - Basic](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week2_CNN_Basics/CNN_basic.pdf)
 
-1) [CNN 기본 모듈](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/03_CNN_Basics/0_MNIST/0_Basic_Modules.ipynb)
+1) [CNN 기본 모듈](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week2_CNN_Basics/0_MNIST/0_Basic_Modules.ipynb)
 
-2) [NN으로 MNIST 풀어보기](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/03_CNN_Basics/0_MNIST/1_Linear_mnist.ipynb)
+2) [NN으로 MNIST 풀어보기](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week2_CNN_Basics/0_MNIST/1_Linear_mnist.ipynb)
 
-3) [CNN으로 MNIST 풀어보기](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/03_CNN_Basics/0_MNIST/3_CNN_clean.ipynb)
+3) [CNN으로 MNIST 풀어보기](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week2_CNN_Basics/0_MNIST/3_CNN_clean.ipynb)
 
-4) [CNN으로 CIFAR10 풀어보기](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/03_CNN_Basics/1_CIFAR/CNN_CIFAR10.ipynb)
+4) [CNN으로 CIFAR10 풀어보기](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week2_CNN_Basics/1_CIFAR/CNN_CIFAR10.ipynb)
 
-## 3강 [Convolutional Neural Network - Advanced](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/04_CNN_Advanced/CNN_Advanced.pdf) 
+## 3강 [Convolutional Neural Network - Advanced](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week3_CNN_Advanced/CNN_Advanced.pdf) 
 
-1) [Custom Data 불러오기](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/04_CNN_Advanced/0_Custom_DataLoader.ipynb)
+1) [Custom Data 불러오기](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week3_CNN_Advanced/0_Custom_DataLoader.ipynb)
 
-2) [VGGNet 구현해보기](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/04_CNN_Advanced/1_VGGNet.ipynb)
+2) [VGGNet 구현해보기](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week3_CNN_Advanced/1_VGGNet.ipynb)
 
-3) [GoogLeNet 구현해보기](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/04_CNN_Advanced/2_GoogleNet.ipynb)
+3) [GoogLeNet 구현해보기](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week3_CNN_Advanced/2_GoogleNet.ipynb)
 
-4) [ResNet 구현해보기](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/04_CNN_Advanced/3_ResNet.ipynb)
+4) [ResNet 구현해보기](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week3_CNN_Advanced/3_ResNet.ipynb)
 
-## 4강 [Recurrent Neural Network - Basic](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/05_RNN/RNN.pdf)
+## 4강 [Recurrent Neural Network - Basic](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week4_RNN/RNN.pdf)
 
-1) [RNN 직접 만들어보기](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/05_RNN/0_Basic/Simple_Char_RNNcell.ipynb)
+1) [RNN 직접 만들어보기](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week4_RNN/0_Basic/Simple_Char_RNNcell.ipynb)
 
-2) [LSTM 튜토리얼](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/05_RNN/1_LSTM/0_LSTM_Practice.ipynb)
+2) [LSTM 튜토리얼](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week4_RNN/1_LSTM/0_LSTM_Practice.ipynb)
 
-3) [LSTM으로 문장 기억하기](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/05_RNN/1_LSTM/1_Char_LSTM.ipynb)
+3) [LSTM으로 문장 기억하기](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week4_RNN/1_LSTM/1_Char_LSTM.ipynb)
 
-4) [nn.Embedding 사용법](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/05_RNN/2_Char_RNN/0_Embedding_Practice.ipynb)
+4) [nn.Embedding 사용법](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week4_RNN/2_Char_RNN/0_Embedding_Practice.ipynb)
 
-5) [Shakespeare 문체 모방하기-RNN](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/05_RNN/2_Char_RNN/1_Char_RNN_Naive.ipynb)
+5) [Shakespeare 문체 모방하기-RNN](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week4_RNN/2_Char_RNN/1_Char_RNN_Naive.ipynb)
 
-6) [Shakespeare 문체 모방하기-GRU](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/05_RNN/2_Char_RNN/2_Char_RNN_GRU.ipynb)
+6) [Shakespeare 문체 모방하기-GRU](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week4_RNN/2_Char_RNN/2_Char_RNN_GRU.ipynb)
 
-7) [Shakespeare 문체 모방하기-LSTM](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/05_RNN/2_Char_RNN/3_Char_RNN_LSTM.ipynb)
+7) [Shakespeare 문체 모방하기-LSTM](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week4_RNN/2_Char_RNN/3_Char_RNN_LSTM.ipynb)
 
 ## 5강 [Problem & Solutions](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/06_Prob%26Solutions/Problem%26Solutions.pdf)
 
