@@ -1,6 +1,6 @@
 # PyTorch Hanbit
 
-http://www.hanbit.co.kr/store/education/edu_view.html?p_code=S3355556973
+[딥러닝 퀵스타트 : 파이토치편](http://www.hanbit.co.kr/store/education/edu_view.html?p_code=S3355556973)
 
 Requirements
 -------------------------
