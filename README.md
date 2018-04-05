@@ -1,10 +1,6 @@
-# PyTorch FastCampus
+# PyTorch Hanbit
 
-PyTorch로 시작하는 딥러닝 입문 CAMP (www.fastcampus.co.kr/data_camp_pytorch/) 1기 강의자료
-
-<p align="center">
-<img src="./data_camp_pytorch.png" width="60%">
-</p>
+http://www.hanbit.co.kr/store/education/edu_view.html?p_code=S3355556973
 
 Requirements
 -------------------------
@@ -29,31 +25,27 @@ Optional
 
 강의자료
 --------------------------
-## 1강 [Deep Learning & PyTorch](https://github.com/GunhoChoi/PyTorch-FastCampus/blob/master/01_DL%26Pytorch/%EB%94%A5%EB%9F%AC%EB%8B%9D%26%ED%8C%8C%EC%9D%B4%ED%86%A0%EC%B9%98.pdf)
+## 1강 [Week1_PyTorch & Regression & NN](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week1_PyTorch%20%26%20Regression%20%26%20NN/Regression%26NN.pdf)
 
-1) [파이썬 기초](https://github.com/GunhoChoi/PyTorch-FastCampus/blob/master/01_DL%26Pytorch/0_Python_Tutorial.ipynb)
+1) [파이썬 기초](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week1_PyTorch%20%26%20Regression%20%26%20NN/0_0_Python_Tutorial.ipynb)
 
-2) [프레임워크 비교](https://github.com/GunhoChoi/PyTorch-FastCampus/blob/master/01_DL%26Pytorch/1_Framework_Comparison.ipynb)
+2) [프레임워크 비교](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week1_PyTorch%20%26%20Regression%20%26%20NN/0_1_Framework_Comparison.ipynb)
 
-3) [파이토치 기본 사용법](https://github.com/GunhoChoi/PyTorch-FastCampus/blob/master/01_DL%26Pytorch/2_pytorch_tensor_basic.ipynb)
+3) [파이토치 텐서 기본 사용법](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week1_PyTorch%20%26%20Regression%20%26%20NN/0_2_pytorch_tensor_basic.ipynb)
 
-## 2강 [Linear Regression & Neural Network](https://github.com/GunhoChoi/PyTorch-FastCampus/blob/master/02_Regression%26NN/Regression%26NN.pdf)
+4) [Automatic Gradient Calculation](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week1_PyTorch%20%26%20Regression%20%26%20NN/1_0_Linear_code/0_Variable_Autograd.ipynb)
 
-1) [Automatic Gradient Calculation](https://github.com/GunhoChoi/PyTorch-FastCampus/blob/master/02_Regression%26NN/0_Linear_code/0_Variable_Autograd.ipynb)
+5) [선형회귀모델](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week1_PyTorch%20%26%20Regression%20%26%20NN/1_0_Linear_code/1_linear_regression.ipynb)
 
-2) [시각화 툴 Visdom 소개](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/02_Regression%26NN/Visdom_Tutorial.ipynb)
+6) [선형회귀모델의 한계](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week1_PyTorch%20%26%20Regression%20%26%20NN/1_0_Linear_code/2_linear_nonlinear.ipynb)
 
-3) [선형회귀모델](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/02_Regression%26NN/0_Linear_code/1_linear_regression.ipynb)
+7) [인공신경망 모델 - 2차함수근사](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week1_PyTorch%20%26%20Regression%20%26%20NN/1_1_NN_code/1d_data/0_neural_quadratic.ipynb)
 
-4) [선형회귀모델의 한계](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/02_Regression%26NN/0_Linear_code/2_linear_nonlinear.ipynb)
+8) [인공신경망 모델 - 3차함수근사](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week1_PyTorch%20%26%20Regression%20%26%20NN/1_1_NN_code/1d_data/1_neural_cubic.ipynb)
 
-5) [인공신경망 모델 - 2차함수근사](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/02_Regression%26NN/1_NN_code/1d_data/0_neural_quadratic.ipynb)
+9) [인공신경망 모델 - 2D데이터](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week1_PyTorch%20%26%20Regression%20%26%20NN/1_1_NN_code/2d_data/neural_2d.ipynb)
 
-6) [인공신경망 모델 - 3차함수근사](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/02_Regression%26NN/1_NN_code/1d_data/1_neural_cubic.ipynb)
-
-7) [인공신경망 모델 - 2D데이터](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/02_Regression%26NN/1_NN_code/2d_data/neural_2d.ipynb)
-
-## 3강 [Convolutional Neural Network - Basic](https://github.com/GunhoChoi/PyTorch-FastCampus/blob/master/03_CNN_Basics/CNN_basic.pdf)
+## 2강 [Convolutional Neural Network - Basic](https://github.com/GunhoChoi/PyTorch-FastCampus/blob/master/03_CNN_Basics/CNN_basic.pdf)
 
 1) [CNN 기본 모듈](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/03_CNN_Basics/0_MNIST/0_Basic_Modules.ipynb)
 
@@ -63,7 +55,7 @@ Optional
 
 4) [CNN으로 CIFAR10 풀어보기](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/03_CNN_Basics/1_CIFAR/CNN_CIFAR10.ipynb)
 
-## 4강 [Convolutional Neural Network - Advanced](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/04_CNN_Advanced/CNN_Advanced.pdf) 
+## 3강 [Convolutional Neural Network - Advanced](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/04_CNN_Advanced/CNN_Advanced.pdf) 
 
 1) [Custom Data 불러오기](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/04_CNN_Advanced/0_Custom_DataLoader.ipynb)
 
@@ -73,7 +65,7 @@ Optional
 
 4) [ResNet 구현해보기](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/04_CNN_Advanced/3_ResNet.ipynb)
 
-## 5강 [Recurrent Neural Network - Basic](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/05_RNN/RNN.pdf)
+## 4강 [Recurrent Neural Network - Basic](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/05_RNN/RNN.pdf)
 
 1) [RNN 직접 만들어보기](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/05_RNN/0_Basic/Simple_Char_RNNcell.ipynb)
 
@@ -89,7 +81,7 @@ Optional
 
 7) [Shakespeare 문체 모방하기-LSTM](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/05_RNN/2_Char_RNN/3_Char_RNN_LSTM.ipynb)
 
-## 6강 [Problem & Solutions](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/06_Prob%26Solutions/Problem%26Solutions.pdf)
+## 5강 [Problem & Solutions](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/06_Prob%26Solutions/Problem%26Solutions.pdf)
 
 1) [Weight Regularization](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/06_Prob%26Solutions/0_Weight_Regularization.ipynb)
 
@@ -107,7 +99,7 @@ Optional
 
 8) [Gradient Descent Variants](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/06_Prob%26Solutions/7_Gradient_Descent_Variants.ipynb)
 
-## 7강 [Transfer Learning](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/07_Transfer_Learning/Transfer_Learning.pdf)
+## 6강 [Transfer Learning](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/07_Transfer_Learning/Transfer_Learning.pdf)
 
 1) [Transfer Learning Basic 학습된 모델에서 원하는 부분만 뽑아내고 학습시키기](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/07_Transfer_Learning/0_Pretrained_Basic/Transfer_Learning.ipynb)
 
@@ -115,7 +107,7 @@ Optional
 
 3) [t-SNE Visualization 뽑아낸 스타일들이 어떻게 분포하는지 확인해보기](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/07_Transfer_Learning/2_T-SNE/Style_TSNE.ipynb)
 
-## 8강 [AutoEncoder & Transposed Convolution](https://github.com/GunhoChoi/PyTorch-FastCampus/blob/master/08_Autoencoder/%5B2%EA%B8%B0%5DAutoEncoder.pdf)
+## 7강 [AutoEncoder & Transposed Convolution](https://github.com/GunhoChoi/PyTorch-FastCampus/blob/master/08_Autoencoder/%5B2%EA%B8%B0%5DAutoEncoder.pdf)
 
 1) [Basic Autoencoder](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/08_Autoencoder/0_Basic_Autoencoder.ipynb)
 
@@ -131,7 +123,7 @@ Optional
 
 7) [Convolutional VAE Latent Space Interpolation](https://github.com/GunhoChoi/PyTorch-FastCampus/blob/master/08_Autoencoder/4-1_Convolutional_Variational_Autoencoder_Interpolation.ipynb)
 
-## 9강 [Generative Adversarial Networks](https://github.com/GunhoChoi/PyTorch-FastCampus/blob/master/09_GAN/GAN(generative%20adversarial%20networks).pdf)
+## 8강 [Generative Adversarial Networks](https://github.com/GunhoChoi/PyTorch-FastCampus/blob/master/09_GAN/GAN(generative%20adversarial%20networks).pdf)
 
 1) [Basic GAN using NN](https://github.com/GunhoChoi/PyTorch-FastCampus/tree/master/09_GAN/0_GAN)
 
@@ -139,4 +131,3 @@ Optional
 
 3) [InfoGAN (Mutual Information Maximizing + GAN)](https://github.com/GunhoChoi/PyTorch-FastCampus/tree/master/09_GAN/2_InfoGAN)
 
-## 10강 [Deep Learning Applications](https://github.com/GunhoChoi/PyTorch-FastCampus/blob/master/10_Applications/Deep%20Learning%20Applications.pdf)
