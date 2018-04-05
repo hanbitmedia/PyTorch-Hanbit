@@ -100,35 +100,35 @@ Optional
 
 8) [Gradient Descent Variants](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week5_Problem%26Solution/7_Gradient_Descent_Variants.ipynb)
 
-## 6강 [Transfer Learning](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/07_Transfer_Learning/Transfer_Learning.pdf)
+## 6강 [Transfer Learning](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week6_TransferLearning/Transfer_Learning.pdf)
 
-1) [Transfer Learning Basic 학습된 모델에서 원하는 부분만 뽑아내고 학습시키기](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/07_Transfer_Learning/0_Pretrained_Basic/Transfer_Learning.ipynb)
+1) [Transfer Learning Basic 학습된 모델에서 원하는 부분만 뽑아내고 학습시키기](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week6_TransferLearning/0_Pretrained_Basic/Transfer_Learning.ipynb)
 
-2) [Style Transfer 명화의 그림체 모방하기](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/07_Transfer_Learning/1_StyleTransfer/StyleTransfer_LBFGS_gpu.ipynb)
+2) [Style Transfer 명화의 그림체 모방하기](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week6_TransferLearning/1_StyleTransfer/StyleTransfer_LBFGS_gpu.ipynb)
 
-3) [t-SNE Visualization 뽑아낸 스타일들이 어떻게 분포하는지 확인해보기](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/07_Transfer_Learning/2_T-SNE/Style_TSNE.ipynb)
+3) [t-SNE Visualization 뽑아낸 스타일들이 어떻게 분포하는지 확인해보기](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week6_TransferLearning/2_T-SNE/Style_TSNE.ipynb)
 
 ## 7강 [AutoEncoder & Transposed Convolution](https://github.com/GunhoChoi/PyTorch-FastCampus/blob/master/08_Autoencoder/%5B2%EA%B8%B0%5DAutoEncoder.pdf)
 
-1) [Basic Autoencoder](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/08_Autoencoder/0_Basic_Autoencoder.ipynb)
+1) [Basic Autoencoder](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week7_Autoencoder/0_Basic_Autoencoder.ipynb)
 
-2) [Embedding Vector는 어떻게 분포하고 있을까? (돌아온 t-SNE)](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/08_Autoencoder/5_Basic_Autoencoder_TSNE.ipynb)
+2) [Embedding Vector는 어떻게 분포하고 있을까? (돌아온 t-SNE)](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week7_Autoencoder/5_Basic_Autoencoder_TSNE.ipynb)
 
-3) [Convolutional Autoencoder (CNN + Autoencoder)](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/08_Autoencoder/1_Convolutional_Autoencoder.ipynb)
+3) [Convolutional Autoencoder (CNN + Autoencoder)](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week7_Autoencoder/1_Convolutional_Autoencoder.ipynb)
 
-4) [Convolutional Denoising Autoencoder (Noise + CNN + Autoencoder)](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/08_Autoencoder/2_Convolutional_Denoising_Autoencoder.ipynb)
+4) [Convolutional Denoising Autoencoder (Noise + CNN + Autoencoder)](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week7_Autoencoder/2_Convolutional_Denoising_Autoencoder.ipynb)
 
-5) [Variational Autoencoder (latent vector z~N(0,I))](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/08_Autoencoder/3_Variational_Autoencoder.ipynb)
+5) [Variational Autoencoder (latent vector z~N(0,I))](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week7_Autoencoder/3_Variational_Autoencoder.ipynb)
 
-6) [Convolutional Variational Autoencoder](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/08_Autoencoder/4_Convolutional_Variational_Autoencoder.ipynb)
+6) [Convolutional Variational Autoencoder](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week7_Autoencoder/4_Convolutional_Variational_Autoencoder.ipynb)
 
-7) [Convolutional VAE Latent Space Interpolation](https://github.com/GunhoChoi/PyTorch-FastCampus/blob/master/08_Autoencoder/4-1_Convolutional_Variational_Autoencoder_Interpolation.ipynb)
+7) [Convolutional VAE Latent Space Interpolation](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week7_Autoencoder/4-1_Convolutional_Variational_Autoencoder_Interpolation.ipynb)
 
-## 8강 [Generative Adversarial Networks](https://github.com/GunhoChoi/PyTorch-FastCampus/blob/master/09_GAN/GAN(generative%20adversarial%20networks).pdf)
+## 8강 [Generative Adversarial Networks](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week8_GAN/GAN(generative%20adversarial%20networks).pdf)
 
-1) [Basic GAN using NN](https://github.com/GunhoChoi/PyTorch-FastCampus/tree/master/09_GAN/0_GAN)
+1) [Basic GAN using NN](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week8_GAN/0_GAN/GAN_Basic.ipynb)
 
-2) [DCGAN (CNN + GAN)](https://github.com/GunhoChoi/PyTorch-FastCampus/tree/master/09_GAN/1_DCGAN)
+2) [DCGAN (CNN + GAN)](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week8_GAN/1_DCGAN/DCGAN.ipynb)
 
-3) [InfoGAN (Mutual Information Maximizing + GAN)](https://github.com/GunhoChoi/PyTorch-FastCampus/tree/master/09_GAN/2_InfoGAN)
+3) [InfoGAN (Mutual Information Maximizing + GAN)](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week8_GAN/2_InfoGAN/infogan_catcon.ipynb)
 
