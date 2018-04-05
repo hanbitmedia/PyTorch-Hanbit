@@ -82,23 +82,23 @@ Optional
 
 7) [Shakespeare 문체 모방하기-LSTM](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week4_RNN/2_Char_RNN/3_Char_RNN_LSTM.ipynb)
 
-## 5강 [Problem & Solutions](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/06_Prob%26Solutions/Problem%26Solutions.pdf)
+## 5강 [Problem & Solutions](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week5_Problem%26Solution/Problem%26Solutions.pdf)
 
-1) [Weight Regularization](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/06_Prob%26Solutions/0_Weight_Regularization.ipynb)
+1) [Weight Regularization](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week5_Problem%26Solution/0_Weight_Regularization.ipynb)
 
-2) [Dropout](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/06_Prob%26Solutions/1_Dropout.ipynb)
+2) [Dropout](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week5_Problem%26Solution/1_Dropout.ipynb)
 
-3) [Data Augmentation](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/06_Prob%26Solutions/2_Data_Augmentation.ipynb)
+3) [Data Augmentation](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week5_Problem%26Solution/2_Data_Augmentation.ipynb)
 
-4) [Weight Initialization](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/06_Prob%26Solutions/3_Weight_Initialization.ipynb)
+4) [Weight Initialization](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week5_Problem%26Solution/3_Weight_Initialization.ipynb)
 
-5) [Learning Rate Scheduler](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/06_Prob%26Solutions/4_Learning_Rate_Decay.ipynb)
+5) [Learning Rate Scheduler](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week5_Problem%26Solution/4_Learning_Rate_Decay.ipynb)
 
-6) [Data Normalization](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/06_Prob%26Solutions/5_Data_Normalization.ipynb)
+6) [Data Normalization](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week5_Problem%26Solution/5_Data_Normalization.ipynb)
 
-7) [Batch Normalization](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/06_Prob%26Solutions/6_Batch_Normalization.ipynb)
+7) [Batch Normalization](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week5_Problem%26Solution/6_Batch_Normalization.ipynb)
 
-8) [Gradient Descent Variants](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/06_Prob%26Solutions/7_Gradient_Descent_Variants.ipynb)
+8) [Gradient Descent Variants](https://github.com/GunhoChoi/PyTorch-Hanbit/blob/master/Week5_Problem%26Solution/7_Gradient_Descent_Variants.ipynb)
 
 ## 6강 [Transfer Learning](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/07_Transfer_Learning/Transfer_Learning.pdf)
 
